@@ -1,8 +1,8 @@
 # Shop-Shop
 
-<br>
+
  [Link to deployed app](https://rocky-lowlands-76770.herokuapp.com/ "Title")
-<br>
+
 
 ## Description
 This is an e-commerce platform built using the MERN stack. 
