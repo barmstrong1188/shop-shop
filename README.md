@@ -5,7 +5,7 @@
 
 
 ## Description
-This is an e-commerce platform built using the MERN stack. 
+This is an e-commerce platform built using the MERN stack. It has been refactored from managing the global state using React's Context API to using Redux.
 
 ![shop-shop-scrnshot](https://user-images.githubusercontent.com/65680645/97110641-abf5cd00-16b0-11eb-9f1f-bb4a8fb6acd2.png)
 
