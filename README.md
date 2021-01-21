@@ -1,8 +1,12 @@
 # Shop-Shop
 
+## Table of Contents
+* [Link to app](#link-to-app)
++ [Description](#description)
+- [Packages/Dependencies](#packages/dependencies)
+* [Engines/Versions](#engines/versions)
 ## Link to app
  [Shop Shop](https://rocky-lowlands-76770.herokuapp.com/ "Shop-Shop E-commerce Platform")
-
 
 ## Description
 This is an e-commerce platform built using the MERN stack. It has been refactored from managing the global state using React's Context API to using Redux.
