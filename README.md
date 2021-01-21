@@ -1,7 +1,7 @@
 # Shop-Shop
 
 ## Link to app
- [Link to deployed app](https://rocky-lowlands-76770.herokuapp.com/ "Shop-Shop E-commerce Platform")
+ [Shop Shop](https://rocky-lowlands-76770.herokuapp.com/ "Shop-Shop E-commerce Platform")
 
 
 ## Description
